@@ -64,8 +64,7 @@ h3::before {
 
 img {
     display: flex;
-    width: 50%;
-    height: 150px;
+    width: 75%;
     justify-content: center;
     margin: 0 auto;
 }
@@ -75,7 +74,7 @@ img {
     flex-wrap: wrap;
     justify-content: space-around;
     width: 45%;
-    height: 20vh;
+    /* height: 20vh; */
     margin: 0 auto;
 }
 
