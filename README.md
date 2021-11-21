@@ -1,5 +1,4 @@
 # Portfolio
-Description
 Link to deployed project: https://deanda-1.github.io/Portfolio/
 Technologies that were used: Github, LinkedIn, GoogleDocs, camera, HTML, CSS
 User Story: This portfolio is presenting myself to be seen and to show what I am about.
